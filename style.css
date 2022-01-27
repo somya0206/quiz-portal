@@ -1,0 +1,98 @@
+*
+{
+    margin: 0;;
+    padding:0;
+    
+}
+body
+{
+    font-family: sans-serif;
+}
+#nav-bar
+{
+     position: sticky;
+    top:0;
+    z-index: 10;
+
+
+} 
+.logo
+{
+    width: 150;
+    height: 80;
+}
+
+.navbar
+{
+    background-image: linear-gradient(to right,#000000, #e74c3c);
+    padding:0;
+    font-size: 25px;
+    
+}
+.promo
+{
+ font-size:40px;
+ font-weight: 600;
+   margin-top: 100px;
+    word-spacing: 15px;
+    
+}
+
+.somu
+{
+  font-family: monospace;
+    word-spacing: 15px;
+  
+}
+
+#banner{
+     background-image: linear-gradient(to right,#000000, #e74c3c);
+      color: #fff;
+       padding-top: 5%;
+}
+#banner a 
+{
+    background-image: linear-gradient(to right,#000000, #e74c3c);
+    text-decoration: none;
+}
+.img-fluids
+{
+    width: 60%;
+    margin-left: 30px;
+    float: right;
+    
+}
+.bottom-img
+{
+    width: 100%;
+}
+#student
+{
+    padding: 80px 0;
+}
+
+.student-img
+{
+    width;100px;
+    margin-top: 20px;
+
+}
+.teacher-img
+{
+      width;100px;
+    margin-top: 20px;
+}
+.services h4
+{
+    padding: 5px;
+    margin-top: 25px;
+    text-transform: uppercase;
+}
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+}
